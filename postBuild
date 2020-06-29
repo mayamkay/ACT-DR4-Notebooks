@@ -1,3 +1,2 @@
-set -ex
-
+wget -q -O bikes-2016.csv "https://data.stadt-zuerich.ch/dataset/verkehrszaehlungen_werte_fussgaenger_velo/resource/ed354dde-c0f9-43b3-b05b-08c5f4c3f65a/download/2016verkehrszaehlungenwertefussgaengervelo.csv"
 wget -q -O ACTPol_148_D5_PA1_S1_1way_I.fits "https://lambda.gsfc.nasa.gov/data/suborbital/ACT/actpol_2016_maps/ACTPol_148_D5_PA1_S1_1way_I.fits"
